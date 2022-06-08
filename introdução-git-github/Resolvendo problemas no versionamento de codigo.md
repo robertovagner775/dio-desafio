@@ -1,6 +1,6 @@
 # Resolvendo problemas no versionamento de codigo :package:  :heavy_multiplication_x:
 
-** comando git pull (seria como puchar) **
+**comando git pull (seria como puchar)**
 
 Quando alguem atualiza o repositorio e voce possui uma versão antiga e necessario puxar os arquivos atualizados pelo usuario que os atualizo usando 
 
